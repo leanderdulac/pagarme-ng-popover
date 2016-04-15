@@ -71,3 +71,10 @@ And you can also choose the name of the class that will be added when the popove
 And that's it!
 
 [Rafael Violato](http://rviolato.com) @ [pagar.me](http://pagar.me)
+
+## Support
+If you have any problem or suggestion please open an issue [here](https://github.com/pagarme/pagarme-ng-popover/issues).
+
+## License
+
+Check [here](LICENSE).
